@@ -1,5 +1,5 @@
 @0    = ~Reactions d'Aerie, Anomen, Jaheira et Viconia aux Rencontres~
-@1    = ~Tempetes et Eclairs, par berelinde (Seigneure des Tempêtes Ada, contenu adulte)~
+@1    = ~Tempetes et Eclairs, par berelinde (Seigneure des TempÃªtes Ada, contenu adulte)~
 @2    = ~La Magie d'Aimi, par berelinde (contenu adulte)~
 @3    = ~Aimi~
 @4    = ~Les Doigts Agiles d'Anishai, par cmorgan~
@@ -11,7 +11,7 @@
 @10   = ~Le Cambion Joueur, par Kulyok~
 @11   = ~Vous ne semblez pas avoir installe Throne of Bhaal.~
 @12   = ~Les Dons de Chanelle, par cmorgan (contenu adulte)~
-@13   = ~Je suis à votre service.~ [RE_cha5]
+@13   = ~Je suis Ã  votre service.~ [RE_cha5]
 @14   = ~Que quelqu'un m'aide !~ [RE_cha4]
 @15   = ~Je ne suis personne d'importance...~ [RE_cha2]
 @16   = ~Excusez-moi, je ne m'occupe que de mes petites affaires...~ [RE_cha3]
@@ -25,19 +25,19 @@
 @24   = ~Le Gros Gourdin de Firkraag~
 @25   = ~Le Contrat de Gaelan, par Evaine Dian~
 @26   = ~Le contrat de Gaelan~
-@27   = ~Ceci est le contrat que Gaelan Bayle a donné à <CHARNAME>. L'écriture en pattes de mouche, à peine lisible, et les tâches d'encre çà et là laissent penser que le document a été rédigé à la hâte, et pourtant, étonnamment, à l'exception de la signature de Gaelan, il n'y a pas une seule faute d'orthographe.
+@27   = ~Ceci est le contrat que Gaelan Bayle a donnÃ© Ã  <CHARNAME>. L'Ã©criture en pattes de mouche, Ã  peine lisible, et les tÃ¢ches d'encre Ã§Ã  et lÃ  laissent penser que le document a Ã©tÃ© rÃ©digÃ© Ã  la hÃ¢te, et pourtant, Ã©tonnamment, Ã  l'exception de la signature de Gaelan, il n'y a pas une seule faute d'orthographe.
 
-  "Fait à Athkatla, <DAYANDMONTH>.
+  "Fait Ã  Athkatla, <DAYANDMONTH>.
   
-Le soussigné promet désormais de garantir un soutien gratuit à <CHARNAME> dans sa quête pour retrouver sa connaissance Imoen, sous réserve que <CHARNAME> accepte de le sauter.
+Le soussignÃ© promet dÃ©sormais de garantir un soutien gratuit Ã  <CHARNAME> dans sa quÃªte pour retrouver sa connaissance Imoen, sous rÃ©serve que <CHARNAME> accepte de le sauter.
 
   - Gayling Bail
   - <CHARNAME>"~
-@28   = ~Ceci est le contrat que Gaelan Bayle a donné à <CHARNAME>. L'écriture en pattes de mouche, à peine lisible, et les tâches d'encre çà et là laissent penser que le document a été rédigé à la hâte, et pourtant, étonnamment, à l'exception de la signature de Gaelan, il n'y a pas une seule faute d'orthographe.
+@28   = ~Ceci est le contrat que Gaelan Bayle a donnÃ© Ã  <CHARNAME>. L'Ã©criture en pattes de mouche, Ã  peine lisible, et les tÃ¢ches d'encre Ã§Ã  et lÃ  laissent penser que le document a Ã©tÃ© rÃ©digÃ© Ã  la hÃ¢te, et pourtant, Ã©tonnamment, Ã  l'exception de la signature de Gaelan, il n'y a pas une seule faute d'orthographe.
 
-  "Fait à Athkatla, <DAYANDMONTH>.
+  "Fait Ã  Athkatla, <DAYANDMONTH>.
   
-Le soussigné promet désormais de garantir un soutien gratuit à <CHARNAME> dans sa quête pour retrouver sa connaissance Imoen, sous réserve que <CHARNAME> accepte de le sauter.
+Le soussignÃ© promet dÃ©sormais de garantir un soutien gratuit Ã  <CHARNAME> dans sa quÃªte pour retrouver sa connaissance Imoen, sous rÃ©serve que <CHARNAME> accepte de le sauter.
   
   - Gayling Bail
   - <CHARNAME>"~
@@ -53,15 +53,15 @@ Le soussigné promet désormais de garantir un soutien gratuit à <CHARNAME> dans s
 @38   = ~Lais~
 @39   = ~La Promesse de Laran, par berelinde (contenu adulte)~
 @40   = ~Laran~
-@41   = ~Bonjour, <PRO_SIRMAAM>. Vous semblez être un étranger à ces lieux.~ [RE_Lar00]
+@41   = ~Bonjour, <PRO_SIRMAAM>. Vous semblez Ãªtre un Ã©tranger Ã  ces lieux.~ [RE_Lar00]
 @42   = ~Torm ! Guide ma lame !~ [RE_Lar01]
 @43   = ~[RE_Lar02]~ [RE_Lar02]
 @44   = ~Bonjour !~ [RE_Lar03]
-@45   = ~Réfugié~
+@45   = ~RÃ©fugiÃ©~
 @46   = ~Lettre~
-@47   = ~Ma Très Chère Dame <CHARNAME>,
+@47   = ~Ma TrÃ¨s ChÃ¨re Dame <CHARNAME>,
 
-  J'écris en toute hâte, mais je tenais à ce que vous sachiez que je pense souvent à vous. Si je devais survivre, je partirai à votre recherche, mais ceci apparaît de moins en moins probable au fur et à mesure des heures qui passent. Néanmoins, je garde foi en Torm, et ma place est ici, à défendre Saradush. Que la bénédiction de tous les dieux bons vous accompagne.
+  J'Ã©cris en toute hÃ¢te, mais je tenais Ã  ce que vous sachiez que je pense souvent Ã  vous. Si je devais survivre, je partirai Ã  votre recherche, mais ceci apparaÃ®t de moins en moins probable au fur et Ã  mesure des heures qui passent. NÃ©anmoins, je garde foi en Torm, et ma place est ici, Ã  dÃ©fendre Saradush. Que la bÃ©nÃ©diction de tous les dieux bons vous accompagne.
 
   Avec tout mon amour, Laran.~
 @48   = ~Le Chant d'Amour de Logan, Lord Coprith, par Ajnos~
@@ -70,233 +70,233 @@ Le soussigné promet désormais de garantir un soutien gratuit à <CHARNAME> dans s
 @51   = ~Breuvage Fortifiant de Mira~
 @52   = ~Breuvage Fortifiant de Mira
 
-C'est Mira, commerçante à la Promenade de Waukyne, qui vous a donné ce fortifiant.~
+C'est Mira, commerÃ§ante Ã  la Promenade de Waukyne, qui vous a donnÃ© ce fortifiant.~
 @53   = ~Breuvage Fortifiant de Mira
 
-Mira, commerçante à la Promenade de Waukyne, prépare cette potion pour assister tous ceux qui passent leur temps à conter fleurette sans s'inquiéter de la fatigue, ou d'une éventuelle progéniture.~
+Mira, commerÃ§ante Ã  la Promenade de Waukyne, prÃ©pare cette potion pour assister tous ceux qui passent leur temps Ã  conter fleurette sans s'inquiÃ©ter de la fatigue, ou d'une Ã©ventuelle progÃ©niture.~
 @54   = ~Livre des Versets de Ceilla~
 
-/*Des poèmes présents dans le recueil, je n'en ai traduit/réadapté qu'un seul, le premier. Les autres étaient trop longs, je les ai donc remplacés par diverses oeuvres. Dans l'ordre : "Je l'aime à Mourir", chanson de Francis Cabrel, et "Mon Rêve Familier", poème de Verlaine.*/
+/*Des poÃ¨mes prÃ©sents dans le recueil, je n'en ai traduit/rÃ©adaptÃ© qu'un seul, le premier. Les autres Ã©taient trop longs, je les ai donc remplacÃ©s par diverses oeuvres. Dans l'ordre : "Je l'aime Ã  Mourir", chanson de Francis Cabrel, et "Mon RÃªve Familier", poÃ¨me de Verlaine.*/
 @55   = ~Le Voeu
 
-Quand Heaum cessera enfin d'être vigilant,
-Quand Séluné appartiendra aux cieux du jour,
+Quand Heaum cessera enfin d'Ãªtre vigilant,
+Quand SÃ©lunÃ© appartiendra aux cieux du jour,
 Quand Lathandre oubliera les lueurs du levant,
-Quand Mystra méprisera magie pour toujours,
-Quand Sunie se dépouillera de tout éclat,
-Quand Torm reniera la justice à tout jamais,
-Quand ces dieux trahiront leur être, ce jour-là,
+Quand Mystra mÃ©prisera magie pour toujours,
+Quand Sunie se dÃ©pouillera de tout Ã©clat,
+Quand Torm reniera la justice Ã  tout jamais,
+Quand ces dieux trahiront leur Ãªtre, ce jour-lÃ ,
 Ce jour seulement, cesserai-je de t'aimer.
 
 
-Je l'aime à Mourir
+Je l'aime Ã  Mourir
 
-Moi je n'étais rien,
-Et voilà qu'aujourd'hui,
+Moi je n'Ã©tais rien,
+Et voilÃ  qu'aujourd'hui,
 Je suis le gardien
 Du sommeil de ses nuits,
-Je l'aime à mourir.
-Vous pouvez détruire
+Je l'aime Ã  mourir.
+Vous pouvez dÃ©truire
 Tout ce qu'il vous plaira,
-Elle n'a qu'à ouvrir
+Elle n'a qu'Ã  ouvrir
 L'espace de ses bras
 Pour tout reconstruire,
 Pour tout reconstruire,
-Je l'aime à mourir.
+Je l'aime Ã  mourir.
 
-Elle a gommé les chiffres
+Elle a gommÃ© les chiffres
 Des horloges du quartier,
 Elle a fait de ma vie
 Des cocottes en papier,
-Des éclats de rire.
-Elle a bâti des ponts
+Des Ã©clats de rire.
+Elle a bÃ¢ti des ponts
 Entre nous et le ciel,
 Et nous les traversons
 A chaque fois qu'elle
 Ne veut pas dormir,
 Ne veut pas dormir,
-Je l'aime à mourir.
+Je l'aime Ã  mourir.
 
-Elle a dû faire toutes les guerres
-Pour être si forte aujourd'hui,
-Elle a dû faire toutes les guerres
+Elle a dÃ» faire toutes les guerres
+Pour Ãªtre si forte aujourd'hui,
+Elle a dÃ» faire toutes les guerres
 De la vie, et l'amour aussi.
 
 Elle vit de son mieux
-Son rêve d'opaline,
+Son rÃªve d'opaline,
 Elle danse au milieu
-Des forêts qu'elle dessine,
-Je l'aime à mourir.
+Des forÃªts qu'elle dessine,
+Je l'aime Ã  mourir.
 Elle porte des rubans
 Qu'elle laisse s'envoler,
 Elle me chante souvent
 Que j'ai tort d'essayer,
 De les retenir,
 De les retenir,
-Je l'aime à mourir.
+Je l'aime Ã  mourir.
 
 Pour monter dans sa grotte
-Cachée sous les toits,
+CachÃ©e sous les toits,
 Je dois clouer des notes
-À mes sabots de bois,
-Je l'aime à mourir.
+Ã€ mes sabots de bois,
+Je l'aime Ã  mourir.
 Je dois juste m'asseoir,
 Je ne dois pas parler,
 Je ne dois rien vouloir,
 Je dois juste essayer
 De lui appartenir,
 De lui appartenir,
-Je l'aime à mourir.
+Je l'aime Ã  mourir.
 
-Elle a dû faire toutes les guerres
+Elle a dÃ» faire toutes les guerres
 Pour etre si forte aujourd'hui,
-Elle a dû faire toutes les guerres
+Elle a dÃ» faire toutes les guerres
 De la vie, et l'amour aussi.
 
-Moi je n'étais rien,
-Et voilà qu'aujourd'hui,
+Moi je n'Ã©tais rien,
+Et voilÃ  qu'aujourd'hui,
 Je suis le gardien
 Du sommeil de ses nuits,
-Je l'aime à mourir.
-Vous pouvez détruire
+Je l'aime Ã  mourir.
+Vous pouvez dÃ©truire
 Tout ce qu'il vous plaira,
-Elle n'aura qu'à ouvrir
+Elle n'aura qu'Ã  ouvrir
 L'espace de ses bras
 Pour tout reconstruire,
 Pour tout reconstruire,
-Je l'aime à mourir.
+Je l'aime Ã  mourir.
 
 
-Mon Rêve Familier
+Mon RÃªve Familier
 
-Je fais souvent ce rêve étrange et pénétrant
+Je fais souvent ce rÃªve Ã©trange et pÃ©nÃ©trant
 D'une femme inconnue et que j'aime, et qui m'aime,
-Et qui n'est, chaque fois, ni tout à fait la même,
-Ni tout à fait une autre, qui m'aime et me comprend.
+Et qui n'est, chaque fois, ni tout Ã  fait la mÃªme,
+Ni tout Ã  fait une autre, qui m'aime et me comprend.
  
 Car elle me comprend et mon coeur, transparent
-Pour elle seule, hélas !, cesse d'être un problème
-Pour elle seule, et les moiteurs de mon front blême,
-Elle seule les sait rafraîchir, en pleurant.
+Pour elle seule, hÃ©las !, cesse d'Ãªtre un problÃ¨me
+Pour elle seule, et les moiteurs de mon front blÃªme,
+Elle seule les sait rafraÃ®chir, en pleurant.
  
 Est-elle brune, blonde ou rousse ? Je l'ignore.
 Son nom ? Je me souviens qu'il est doux et sonore,
-Comme ceux des aimés que la Vie exila.
+Comme ceux des aimÃ©s que la Vie exila.
  
 Son regard est pareil au regard des statues,
 Et pour sa voix, lointaine, si calme et grave, elle a
-L'inflexion des voix chères qui se sont tues.~
+L'inflexion des voix chÃ¨res qui se sont tues.~
 
 
 @56   = ~Le Voeu
 
-Quand Heaum cessera enfin d'être vigilant,
-Quand Séluné appartiendra aux cieux du jour,
+Quand Heaum cessera enfin d'Ãªtre vigilant,
+Quand SÃ©lunÃ© appartiendra aux cieux du jour,
 Quand Lathandre oubliera les lueurs du levant,
-Quand Mystra méprisera magie pour toujours,
-Quand Sunie se dépouillera de tout éclat,
-Quand Torm reniera la justice à tout jamais,
-Quand ces dieux trahiront leur être, ce jour-là,
+Quand Mystra mÃ©prisera magie pour toujours,
+Quand Sunie se dÃ©pouillera de tout Ã©clat,
+Quand Torm reniera la justice Ã  tout jamais,
+Quand ces dieux trahiront leur Ãªtre, ce jour-lÃ ,
 Ce jour seulement, cesserai-je de t'aimer.
 
 
-Je l'aime à Mourir
+Je l'aime Ã  Mourir
 
-Moi je n'étais rien,
-Et voilà qu'aujourd'hui,
+Moi je n'Ã©tais rien,
+Et voilÃ  qu'aujourd'hui,
 Je suis le gardien
 Du sommeil de ses nuits,
-Je l'aime à mourir.
-Vous pouvez détruire
+Je l'aime Ã  mourir.
+Vous pouvez dÃ©truire
 Tout ce qu'il vous plaira,
-Elle n'a qu'à ouvrir
+Elle n'a qu'Ã  ouvrir
 L'espace de ses bras
 Pour tout reconstruire,
 Pour tout reconstruire,
-Je l'aime à mourir.
+Je l'aime Ã  mourir.
 
-Elle a gommé les chiffres
+Elle a gommÃ© les chiffres
 Des horloges du quartier,
 Elle a fait de ma vie
 Des cocottes en papier,
-Des éclats de rire.
-Elle a bâti des ponts
+Des Ã©clats de rire.
+Elle a bÃ¢ti des ponts
 Entre nous et le ciel,
 Et nous les traversons
 A chaque fois qu'elle
 Ne veut pas dormir,
 Ne veut pas dormir,
-Je l'aime à mourir.
+Je l'aime Ã  mourir.
 
-Elle a dû faire toutes les guerres
-Pour être si forte aujourd'hui,
-Elle a dû faire toutes les guerres
+Elle a dÃ» faire toutes les guerres
+Pour Ãªtre si forte aujourd'hui,
+Elle a dÃ» faire toutes les guerres
 De la vie, et l'amour aussi.
 
 Elle vit de son mieux
-Son rêve d'opaline,
+Son rÃªve d'opaline,
 Elle danse au milieu
-Des forêts qu'elle dessine,
-Je l'aime à mourir.
+Des forÃªts qu'elle dessine,
+Je l'aime Ã  mourir.
 Elle porte des rubans
 Qu'elle laisse s'envoler,
 Elle me chante souvent
 Que j'ai tort d'essayer,
 De les retenir,
 De les retenir,
-Je l'aime à mourir.
+Je l'aime Ã  mourir.
 
 Pour monter dans sa grotte
-Cachée sous les toits,
+CachÃ©e sous les toits,
 Je dois clouer des notes
-À mes sabots de bois,
-Je l'aime à mourir.
+Ã€ mes sabots de bois,
+Je l'aime Ã  mourir.
 Je dois juste m'asseoir,
 Je ne dois pas parler,
 Je ne dois rien vouloir,
 Je dois juste essayer
 De lui appartenir,
 De lui appartenir,
-Je l'aime à mourir.
+Je l'aime Ã  mourir.
 
-Elle a dû faire toutes les guerres
+Elle a dÃ» faire toutes les guerres
 Pour etre si forte aujourd'hui,
-Elle a dû faire toutes les guerres
+Elle a dÃ» faire toutes les guerres
 De la vie, et l'amour aussi.
 
-Moi je n'étais rien,
-Et voilà qu'aujourd'hui,
+Moi je n'Ã©tais rien,
+Et voilÃ  qu'aujourd'hui,
 Je suis le gardien
 Du sommeil de ses nuits,
-Je l'aime à mourir.
-Vous pouvez détruire
+Je l'aime Ã  mourir.
+Vous pouvez dÃ©truire
 Tout ce qu'il vous plaira,
-Elle n'aura qu'à ouvrir
+Elle n'aura qu'Ã  ouvrir
 L'espace de ses bras
 Pour tout reconstruire,
 Pour tout reconstruire,
-Je l'aime à mourir.
+Je l'aime Ã  mourir.
 
 
-Mon Rêve Familier
+Mon RÃªve Familier
 
-Je fais souvent ce rêve étrange et pénétrant
+Je fais souvent ce rÃªve Ã©trange et pÃ©nÃ©trant
 D'une femme inconnue et que j'aime, et qui m'aime,
-Et qui n'est, chaque fois, ni tout à fait la même,
-Ni tout à fait une autre, qui m'aime et me comprend.
+Et qui n'est, chaque fois, ni tout Ã  fait la mÃªme,
+Ni tout Ã  fait une autre, qui m'aime et me comprend.
  
 Car elle me comprend et mon coeur, transparent
-Pour elle seule, hélas !, cesse d'être un problème
-Pour elle seule, et les moiteurs de mon front blême,
-Elle seule les sait rafraîchir, en pleurant.
+Pour elle seule, hÃ©las !, cesse d'Ãªtre un problÃ¨me
+Pour elle seule, et les moiteurs de mon front blÃªme,
+Elle seule les sait rafraÃ®chir, en pleurant.
  
 Est-elle brune, blonde ou rousse ? Je l'ignore.
 Son nom ? Je me souviens qu'il est doux et sonore,
-Comme ceux des aimés que la Vie exila.
+Comme ceux des aimÃ©s que la Vie exila.
  
 Son regard est pareil au regard des statues,
 Et pour sa voix, lointaine, si calme et grave, elle a
-L'inflexion des voix chères qui se sont tues.~
+L'inflexion des voix chÃ¨res qui se sont tues.~
 
 @57   = ~Le Retour de Noober, par cmorgan~
 @58   = ~Rebecca la Bohemienne, par Kulyok~
@@ -305,7 +305,7 @@ L'inflexion des voix chères qui se sont tues.~
 @61   = ~Renal~
 @62   = ~La Specialite du Vieux Ribald, par Evaine Dian~
 @63   = ~Le collier de Ribald~
-@64   = ~C'est le collier que Ribald a offert à <CHARNAME>. Selon Ribald, il appartenait à un vieil homme qui lui associait de nombreux bons souvenirs, et il était convaincu que ce collier lui portait chance. La surface du pendentif est polie à force d'avoir été fréquemment effleurée de la main lors de ces dernières décennies. Il n'a aucune valeur, hormis sentimentale.~
+@64   = ~C'est le collier que Ribald a offert Ã  <CHARNAME>. Selon Ribald, il appartenait Ã  un vieil homme qui lui associait de nombreux bons souvenirs, et il Ã©tait convaincu que ce collier lui portait chance. La surface du pendentif est polie Ã  force d'avoir Ã©tÃ© frÃ©quemment effleurÃ©e de la main lors de ces derniÃ¨res dÃ©cennies. Il n'a aucune valeur, hormis sentimentale.~
 @65   = ~Sire Ryan Trawl, par Kulyok~
 @66   = ~Saemon, un Pirate, par Kulyok (contenu adulte)~
 @67   = ~Le Reve de Sendai, par Kulyok~
@@ -322,15 +322,15 @@ L'inflexion des voix chères qui se sont tues.~
 @78   = ~Anne~
 @79   = ~Jonathan~
 @80   = ~Carlos~
-@81   = ~Jonathan, si tu veux retrouver ta soeur chérie, on peut tout à fait s'arranger ! Mais ça va te coûter bonbon, bien sûr. Je pense que mille pièces d'or serait un prix très raisonnable. Tu n'es pas d'accord ?
+@81   = ~Jonathan, si tu veux retrouver ta soeur chÃ©rie, on peut tout Ã  fait s'arranger ! Mais Ã§a va te coÃ»ter bonbon, bien sÃ»r. Je pense que mille piÃ¨ces d'or serait un prix trÃ¨s raisonnable. Tu n'es pas d'accord ?
 
-Tu as raison, peu importe que tu sois d'accord ou non. Tu vas payer, ou ta soeur sera sujette à un malheureux accident. Mais sois en assuré : si tu décidais de ne pas payer, ta soeur ne souffrirait pas. Trop.
+Tu as raison, peu importe que tu sois d'accord ou non. Tu vas payer, ou ta soeur sera sujette Ã  un malheureux accident. Mais sois en assurÃ© : si tu dÃ©cidais de ne pas payer, ta soeur ne souffrirait pas. Trop.
 
-Bon, je pense avoir été assez clair, non ? Et si on se mettait au boulot ? Si tu suis les instructions sur la carte ci-jointe, tu trouveras une baraque. C'est là que tu livreras l'or. Si nous trouvons satisfaction, ta soeur te sera rendue indemne et quasiment en bonne santé.~
+Bon, je pense avoir Ã©tÃ© assez clair, non ? Et si on se mettait au boulot ? Si tu suis les instructions sur la carte ci-jointe, tu trouveras une baraque. C'est lÃ  que tu livreras l'or. Si nous trouvons satisfaction, ta soeur te sera rendue indemne et quasiment en bonne santÃ©.~
 @82   = ~La Reine Ellesime, par Domi~
 @83   = ~La Romance de Valygar, par Kulyok~
 @84   = ~Collier de famille Corthala~
-@85   = ~Ce collier tout simple, bien qu'il n'ait pas grande valeur monétaire, est un héritage de la famille Corthala.~
+@85   = ~Ce collier tout simple, bien qu'il n'ait pas grande valeur monÃ©taire, est un hÃ©ritage de la famille Corthala.~
 @86   = ~Une Repetition avec Chandra, par Western Paladin~
 @87   = ~Chandra~
 @88   = ~Goldander Blackenrock : Apres la Fete, par magrat~
@@ -338,14 +338,14 @@ Bon, je pense avoir été assez clair, non ? Et si on se mettait au boulot ? Si tu
 @90   = ~Bravoure ou Folie ? par Aeryn (Sarevok, contenu adulte)~
 @91   = ~A Cause de la Lune, par Aeryn (Cernd)~
 @92   = ~La Confession de Cernick, par Cal Jones~
-@93   = ~Romance avec Valygar - Trône de Bhaal, par Kulyok~
-@94   = ~La clé de Valygar~
-@95   = ~D'après Valygar, cette clé ouvrira la porte de son ancien hôtel particulier à Athkatla. C'est un cadeau à <CHARNAME>, le serment que sa maison lui sera toujours ouverte, la promesse de choses à venir.~
-@96   = ~L'idylle éclair et le mariage précipité de Valygar Corthala et <CHARNAME> devint bientôt l'histoire d'amour la plus osée et la plus romantique d'Amn. Les femmes nobles murmurèrent des histoires de cavaliers sur la plage, d'un voyage en mer au coucher du soleil, d'une cérémonie rapide mais somptueuse sur la frontière d'Amn, et bien sûr de cette grande maison des Corthala. Certains détails étaient justes d'autres non, mais lorsque les Corthala arrivèrent à Atkhatla, tous s'accordèrent pour dire que c'était le couple le plus beau et le plus majestueux qu'ils avaient jamais vu.
+@93   = ~Romance avec Valygar - TrÃ´ne de Bhaal, par Kulyok~
+@94   = ~La clÃ© de Valygar~
+@95   = ~D'aprÃ¨s Valygar, cette clÃ© ouvrira la porte de son ancien hÃ´tel particulier Ã  Athkatla. C'est un cadeau Ã  <CHARNAME>, le serment que sa maison lui sera toujours ouverte, la promesse de choses Ã  venir.~
+@96   = ~L'idylle Ã©clair et le mariage prÃ©cipitÃ© de Valygar Corthala et <CHARNAME> devint bientÃ´t l'histoire d'amour la plus osÃ©e et la plus romantique d'Amn. Les femmes nobles murmurÃ¨rent des histoires de cavaliers sur la plage, d'un voyage en mer au coucher du soleil, d'une cÃ©rÃ©monie rapide mais somptueuse sur la frontiÃ¨re d'Amn, et bien sÃ»r de cette grande maison des Corthala. Certains dÃ©tails Ã©taient justes d'autres non, mais lorsque les Corthala arrivÃ¨rent Ã  Atkhatla, tous s'accordÃ¨rent pour dire que c'Ã©tait le couple le plus beau et le plus majestueux qu'ils avaient jamais vu.
 
-Les nouvelles aventures des Corthala à Padhiver se révélèrent encore plus passionnantes, et ajoutèrent aux richesses déjà considérables de la famille. Lorsque <CHARNAME> revint, une place sur le Conseil des Six fut négociée et obtenue quasi immédiatement. Valygar, lui, devint Inspecteur Chef, et son mandat marqua le début d'une nouvelle page dans l'histoire d'Amn, lui valant respect et admirateurs, alors que sa mystérieuse épouse acquit encore plus de pouvoir à travers conflits et diplomatie.
+Les nouvelles aventures des Corthala Ã  Padhiver se rÃ©vÃ©lÃ¨rent encore plus passionnantes, et ajoutÃ¨rent aux richesses dÃ©jÃ  considÃ©rables de la famille. Lorsque <CHARNAME> revint, une place sur le Conseil des Six fut nÃ©gociÃ©e et obtenue quasi immÃ©diatement. Valygar, lui, devint Inspecteur Chef, et son mandat marqua le dÃ©but d'une nouvelle page dans l'histoire d'Amn, lui valant respect et admirateurs, alors que sa mystÃ©rieuse Ã©pouse acquit encore plus de pouvoir Ã  travers conflits et diplomatie.
 
-<CHARNAME> et Valygar voyagèrent dans des terres lointaines. Ils renouvelèrent leurs voeux des années plus tard, à la Porte de Baldur, découvrirent des secrets près de l'Epine du Monde, et, à en croire les histoires de Volo, affrontèrent même la Dame de la Souffrance dans Sigil. Leurs amis n'acceptèrent pas tous leur mariage précipité facilement, mais la plupart restèrent proches de <CHARNAME>, toujours prêts à la retrouver et se plonger tête baissée dans une nouvelle aventure imprudente, Valygar le premier. Leur demeure dans le quartier du Gouvernement devint l'une des plus belles d'Athkatla, emplie de lumière, d'amour et de rires. Et leurs routes, entrelacées, se poursuivirent encore et toujours.~
+<CHARNAME> et Valygar voyagÃ¨rent dans des terres lointaines. Ils renouvelÃ¨rent leurs voeux des annÃ©es plus tard, Ã  la Porte de Baldur, dÃ©couvrirent des secrets prÃ¨s de l'Epine du Monde, et, Ã  en croire les histoires de Volo, affrontÃ¨rent mÃªme la Dame de la Souffrance dans Sigil. Leurs amis n'acceptÃ¨rent pas tous leur mariage prÃ©cipitÃ© facilement, mais la plupart restÃ¨rent proches de <CHARNAME>, toujours prÃªts Ã  la retrouver et se plonger tÃªte baissÃ©e dans une nouvelle aventure imprudente, Valygar le premier. Leur demeure dans le quartier du Gouvernement devint l'une des plus belles d'Athkatla, emplie de lumiÃ¨re, d'amour et de rires. Et leurs routes, entrelacÃ©es, se poursuivirent encore et toujours.~
 @97   = ~Minsc prend un bain, par Thimblerig~
 @98   = ~La Vanite de Nizidramanii'yt, par Thimblerig~
 @99   = ~Un rendez-vous nocturne, par SisterVigilante~

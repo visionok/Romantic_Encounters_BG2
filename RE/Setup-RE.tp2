@@ -31,13 +31,14 @@ ALWAYS
 ACTION_IF !FILE_EXISTS ~RE/backup/REreinstall.mrk~ BEGIN
 
 
-//  ACTION_DEFINE_ARRAY fl#noconvert BEGIN setup END
+  ACTION_DEFINE_ARRAY fl#noconvert BEGIN setup-RE END
 
-  ACTION_DEFINE_ARRAY fl#reload BEGIN setup-RE.tra END
+  ACTION_DEFINE_ARRAY fl#reload BEGIN END
 
    LAF HANDLE_CHARSETS
     INT_VAR
       infer_charset = 1
+	  from_utf8 = 1
     STR_VAR
       tra_path = EVAL ~RE~
       noconvert_array = fl#noconvert
@@ -55,6 +56,7 @@ LANGUAGE ~English~ ~English~ ~RE/English/Setup-RE.tra~
 LANGUAGE ~Russian (Translated by Aerie.ru)~ ~Russian~ ~RE/Russian/Setup-RE.tra~
 LANGUAGE ~French (Translated by Les d'Oghmatiques)~ ~French~ ~RE/French/Setup-RE.tra~
 //LANGUAGE ~Polski+Angielski (Translated by athkatla.cob-bg.pl)~ ~Polish~ ~RE/Polish/Setup-RE.tra~
+LANGUAGE ~Chinese~ ~SChinese~ ~RE/SChinese/Setup-RE.tra~
 
 // Reactions
 

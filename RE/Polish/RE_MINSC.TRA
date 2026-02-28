@@ -1,5 +1,5 @@
 @0    = ~(It has been a long day, and you trudge wearily down the hall of another hired inn, seeking to clean at least some of the accumulated grime from your body before falling into another hired bed.)~ [RE_BLANK]
-@1    = ~(Half asleep, you bounce off an unexpected wall. You look up blearily. It is Minsc, his loyal hamster companion riding on his shoulder. Minsc is arrayed for... not-war – he holds a basket stuffed full of fluffy white towels and soap. Mighty Boo grasps a round sponge with his little hamster forelegs.)~
+@1    = ~(Half asleep, you bounce off an unexpected wall. You look up blearily. It is Minsc, his loyal hamster companion riding on his shoulder. Minsc is arrayed for... not-war â€“ he holds a basket stuffed full of fluffy white towels and soap. Mighty Boo grasps a round sponge with his little hamster forelegs.)~
 @2    = ~Boo: "Squeak!"~ [GAM_48]
 @3    = ~It is time for the Sacred Cleansing, my friend. In the Ice Dragon Berserker's Lodge this cleansing takes place in the sweat lodge among warrior brethren chanting of their glorious deeds as they scrape each other's muscled backs.~
 @4    = ~But little Imoen told me that in this exotic land the Sacred Cleansing involves more bubbles and less well-aged bear fat applied vigorously.~
@@ -46,7 +46,7 @@
 @45   = ~(Minsc wraps his mighty arms around you.)~
 @46   = ~...can't... breathe...~
 @47   = ~My memory's still a little fuzzy, Minsc. Could you tell me about Dynaheir?~
-@48   = ~(You and Minsc and Boo together talk long into the night about Minsc's witch – of Dynaheir's ferocious intelligence and impatience for fools, of the care with which she bound and tended Minsc's feet when he got blisters, telling him off all the while, of her long-running feud with the miniature giant space hamster and the cache of nuts she kept in her pack just for Boo.)~
+@48   = ~(You and Minsc and Boo together talk long into the night about Minsc's witch â€“ of Dynaheir's ferocious intelligence and impatience for fools, of the care with which she bound and tended Minsc's feet when he got blisters, telling him off all the while, of her long-running feud with the miniature giant space hamster and the cache of nuts she kept in her pack just for Boo.)~
 @49   = ~(You speak of Khalid's timidity and his refusal to back down from a righteous fight, and of Imoen's merry pranking when the pair of you were children in Candlekeep.)~
 @50   = ~(Some of the inferno of rage inside Minsc fades as he talks, and something eases inside you, too, if only a little.)~
 @51   = ~(Eventually, you look at your hands, which are very clean now, but wrinkled as prunes.)~
